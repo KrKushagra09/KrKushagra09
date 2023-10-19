@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm KUMAR KUSHAGRA</h1>
+
 <h3 align="center">Pre-Final year IT student adept in cutting-edge technologies, including web development, Cloud , Data Structures , Problem Solving & Management skills with valuable internship experience in leading organizations driving the industry 4.0 revolution. Demonstrated expertise in executing projects with significant impact. Seeking a full-time/summer-intern role in the software industry to contribute to transformative software solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krkushagra09&label=Profile%20views&color=0e75b6&style=flat" alt="krkushagra09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krkushagra09" alt="krkushagra09" /></a> </p>
-
 - 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **AWS , MEAN STACK , DSA in C++**
